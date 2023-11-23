@@ -7,7 +7,7 @@ this is a pentesting/hacking simulator that pretends to do that. It doesn't harm
 - Python: version 3.10.12 (the app will only work on this version!!!)
 - Python modules: tkinter, PIL
 
-# how to install
+# how to download
 1- click on the green "<> Code" button
 2- click on "Download ZIP"
 

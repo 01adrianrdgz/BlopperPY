@@ -22,6 +22,6 @@ this is a pentesting/hacking simulator that pretends to do that. It doesn't harm
 the software is licensed under BSD-3 Clause License, the mascot. The mascot (Blopperina) and all of her artwork are licensed under CC-BY-SA 4.0.
 
 # screenshots!!
-![bpy_menu](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/130feb58-9bc9-4dba-a601-6507cb9eca24)
-![bpy_open](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/cc3cfab4-3bdf-4b43-a7b1-b4dfdf0b76f0)
+![BlopperPY_menu](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/130feb58-9bc9-4dba-a601-6507cb9eca24)
+![BlopperPY_file searched](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/cc3cfab4-3bdf-4b43-a7b1-b4dfdf0b76f0)
 

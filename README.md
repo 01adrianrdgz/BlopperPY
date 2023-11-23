@@ -23,5 +23,4 @@ the software is licensed under BSD-3 Clause License, the mascot. The mascot (Blo
 
 # screenshots!!
 ![BlopperPY_menu](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/130feb58-9bc9-4dba-a601-6507cb9eca24)
-![BlopperPY_file searched](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/cc3cfab4-3bdf-4b43-a7b1-b4dfdf0b76f0)
-
+![BlopperPY_file search](https://github.com/01adrianrdgz/BlopperPY/assets/149033599/cc3cfab4-3bdf-4b43-a7b1-b4dfdf0b76f0)

@@ -19,7 +19,7 @@ def exit():
 	root.destroy()
 
 def about():
-	tk.messagebox.showinfo(title="about this application", message="this is a pentesting/hacking simulator that pretends to do that. It doesn't harm your computer or add viruses." "\n" "All of the things it does are fake and are meant only for fun!! Please remember that." "\n" "This application is open source and licensed under the BSD-3 Clause license." "\n" "Proudly programmed in Ubuntu!!" "\n" "The mascot (Blopperina) and all of her artwork are licensed under CC-BY-SA 4.0")
+	tk.messagebox.showinfo(title="about this application", message="this is a pentesting/hacking simulator that pretends to do that. It doesn't harm your computer or add viruses." "\n" "All of the things it does are fake and are meant only for fun!! Please remember that." "\n" "This application is open source and licensed under the BSD-3 Clause license." "\n" "Proudly programmed in Ubuntu!!" "\n" "The mascot (Blopperina) and all of her artwork are licensed under CC-BY-SA 4.0.")
 	
 def openfile():
 	filedialog.askopenfilename(title="run scripts or open files...")

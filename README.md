@@ -5,7 +5,7 @@ this is a pentesting/hacking simulator that pretends to do that. It doesn't harm
 - operating system: any
 - minimum size: 400 kB
 - Python: version 3.10.12 (the app will only work on this version!!!)
-- Python modules: tkinter, PIL
+- Python modules: tkinter, PIL, python3-pil.imagetk
 
 # how to download
 1- click on the green "<> Code" button
